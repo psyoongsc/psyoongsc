@@ -1,7 +1,7 @@
 <div align="center">
 
-### Splunk Engineer & Back-End Developer in OSSLAB(2022~2025.05)
-### Junior Developer in ???(2022.06)
+### Junior BE Developer in ???(2022.06)
+Splunk Engineer & Back-End Developer in OSSLAB(2022~2025.05)
 
 <!--
 **psyoongsc/psyoongsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

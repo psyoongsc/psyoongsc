@@ -1,6 +1,6 @@
 <div align="center">
 
-### Junior BE Developer at SIR.LOIN (2026.06~)
+### Junior BE Developer at SIR.LOIN (2025.06~)
 Splunk Engineer & Back-End Developer at OSSLAB (2022~2025.05)
 
 <!--
